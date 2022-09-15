@@ -1,0 +1,52 @@
+1. Feast
+addr: Sheraton Grand Bund Garden Hotel,Sangamvadi, Pune.
+
+2. Good News Dhaba
+addr: CREATICITY MALL, Shastrinagar, Yerawada, Pune.
+
+3. Coriander Kitchen
+addr: Conrad,Mangaldas Rd, Sangamvadi, Pune.
+
+4. Chingari
+addr:  Raja Bahadur Mill Rd, Sangamvadi, Pune.
+
+5. Thikana
+addr: White Square, Hinjawadi Rd, Hinjawadi, Pune.
+
+6. Peshwa Pavilion
+addr: Itc Maratha, Sahar Airport Rd, Andheri East, Mumbai.
+
+7. Nawab Saheb
+addr: The Westin Mumbai Powai Lake, Powai, Mumbai
+
+8. Masala Library
+addr: Bandra Kurla Complex (BKC), Western Suburbs,Mumbai
+
+9. China Bistro
+addr: Worli BMC Colony, Narayan Pujari Nagar,Mumbai
+
+10. Lake View Cafe
+addr: The Westin Mumbai,near Chinmayand Ashram, Powai, Mumbai
+
+11. Vega
+addr:near IGI International Airport,Mahipalpur, New Delhi.
+
+12. The Bikers Cafe
+addr: Address: Palm Spring Plaza, Golf Course Rd, Sector 54, Gurugram, Haryana 
+
+13. The Qube
+addr: Diplomatic Enclave, Chanakyapuri, New Delhi.
+
+14. The Dineroom
+addr:NWA, Club Rd, Punjabi Bagh, Delhi.
+
+15. My Secret Place
+addr: Palam Vihar, Sector 23A, Gurugram, Haryana.
+
+
+
+
+
+
+
+
