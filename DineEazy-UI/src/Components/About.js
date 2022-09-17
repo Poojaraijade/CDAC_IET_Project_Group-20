@@ -24,8 +24,8 @@ function About(){
                     <div className="col-lg-6">
                         <h5 className="section-title ff-secondary text-start text-primary fw-normal">About Us</h5>
                         <h1 className="mb-4">Welcome to <i className="fa fa-utensils text-primary me-2"></i>DineEazy</h1>
-                        <p className="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos erat ipsum et lorem et sit, sed stet lorem sit.</p>
-                        <p className="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                        <p className="mb-4">We have always been obsessed with pre-empting and fulfilling the wants of today’s diner. In 2012, it simply meant allowing diners to reserve a guaranteed table at the top restaurants in the city. In 2018, we has evolved to providing multiple benefits on one platform for all dining out needs.</p>
+                        <p className="mb-4"><ul><li>Connecting diners to the best-in-the-city restaurant discounts & deals</li><li>Giving diners a cashless payment experience across restaurants & an opportunity to earn cashback on every payment</li><li>A unique membership - Dineout Passport - with massive benefits for the real connoisseur of food.</li></ul>*</p>
                         <div className="row g-4 mb-4">
                             <div className="col-sm-6">
                                 <div className="d-flex align-items-center border-start border-5 border-primary px-3">
