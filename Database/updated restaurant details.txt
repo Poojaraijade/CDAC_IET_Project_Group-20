@@ -1,49 +1,451 @@
-1. Feast
-addr: Sheraton Grand Bund Garden Hotel,Sangamvadi, Pune.
 
-2. Good News Dhaba
-addr: CREATICITY MALL, Shastrinagar, Yerawada, Pune.
-
-3. Coriander Kitchen
-addr: Conrad,Mangaldas Rd, Sangamvadi, Pune.
-
-4. Chingari
-addr:  Raja Bahadur Mill Rd, Sangamvadi, Pune.
-
-5. Thikana
-addr: White Square, Hinjawadi Rd, Hinjawadi, Pune.
-
-6. Peshwa Pavilion
-addr: Itc Maratha, Sahar Airport Rd, Andheri East, Mumbai.
-
-7. Nawab Saheb
-addr: The Westin Mumbai Powai Lake, Powai, Mumbai
-
-8. Masala Library
-addr: Bandra Kurla Complex (BKC), Western Suburbs,Mumbai
-
-9. China Bistro
-addr: Worli BMC Colony, Narayan Pujari Nagar,Mumbai
-
-10. Lake View Cafe
-addr: The Westin Mumbai,near Chinmayand Ashram, Powai, Mumbai
-
-11. Vega
-addr:near IGI International Airport,Mahipalpur, New Delhi.
-
-12. The Bikers Cafe
-addr: Address: Palm Spring Plaza, Golf Course Rd, Sector 54, Gurugram, Haryana 
-
-13. The Qube
-addr: Diplomatic Enclave, Chanakyapuri, New Delhi.
-
-14. The Dineroom
-addr:NWA, Club Rd, Punjabi Bagh, Delhi.
-
-15. My Secret Place
-addr: Palam Vihar, Sector 23A, Gurugram, Haryana.
+1.customer first name: Abhijeet
+2.customer last name: Patil
+3.customer mobile no: 8446246208
+4.customer password:  abhi@123
+5.restaurant name: Feast
+6.restaurant addr: Sheraton Grand Bund Garden Hotel,Sangamvadi.
+7.city: Pune
+8.contact person name: Amar
+9.phone no: 02025531244
+10.email: feast@gmail.com
+11.opening time: 9
+12.closing time: 11
+13.restaurant contact no: 02025531233
+14.time slot: 12.30
+15.meal: Lunch
+16.weekday: sunday
+17.date: 15-9-2022
+18.food name: dal fry
+19.foood category: 
+20.cuisine type: Indian
+21.booking date: 15-9-2022
+22.guest name: Ajit
+23.total booking amount: 1200
+24.cuisine name: Indian
+25.best selling item: chicken curry
+26.feature name: Valet Parking
+ 
 
 
+
+
+1.customer first name: Arnav
+2.customer last name: singh
+3.customer mobile no: 8446242205
+4.customer password:  arnav@123
+5.restaurant name: Good News Dhaba
+6.restaurant addr: CREATICITY MALL, Shastrinagar, Yerawada.
+7.city: Pune
+8.contact person name: Aniket
+9.phone no: 020255311124
+10.email: goodnewsdhaba@gmail.com
+11.opening time: 10
+12.closing time: 12
+13.restaurant contact no: 020255312432
+14.time slot: 1.30
+15.meal: Lunch
+16.weekday: monday
+17.date: 16-9-2022
+18.food name: paneer tikka
+19.foood category: North Indian
+20.cuisine type: North Indian
+21.booking date: 15-9-2022
+22.guest name: pratik
+23.total booking amount: 1600
+24.cuisine name: North Indian
+25.best selling item: kadhai paneer
+26.feature name: outdoor seating
+
+
+
+
+1.customer first name: malhar
+2.customer last name: kale
+3.customer mobile no: 8446241802
+4.customer password:  malhar@123
+5.restaurant name: Coriander Kitchen
+6.restaurant addr: Conrad,Mangaldas Rd, Sangamvadi.
+7.city: Pune
+8.contact person name: sameer
+9.phone no: 020255311129
+10.email: coriander@gmail.com
+11.opening time: 9.30
+12.closing time: 11.30
+13.restaurant contact no: 020255312456
+14.time slot: 10
+15.meal: Dinner
+16.weekday: tuesday
+17.date: 17-9-2022
+18.food name: paneer makhanwala
+19.foood category: 
+20.cuisine type: North Indian
+21.booking date: 17-9-2022
+22.guest name: sangram
+23.total booking amount: 1100
+24.cuisine name: North Indian
+25.best selling item: chicken tikka
+26.feature name: smoking zone
+
+
+
+
+1.customer first name: pralhad
+2.customer last name: mane
+3.customer mobile no: 8446241672
+4.customer password: pralhad@123
+5.restaurant name: Chingari
+6.restaurant addr: Raja Bahadur Mill Rd, Sangamvadi.
+7.city: Pune
+8.contact person name: sanman
+9.phone no: 020255311119
+10.email: chingari@gmail.com
+11.opening time: 9
+12.closing time: 11
+13.restaurant contact no: 020255312436
+14.time slot: 10.30
+15.meal: Breakfast
+16.weekday: wednesday
+17.date: 18-9-2022
+18.food name: paper dosa
+19.foood category: 
+20.cuisine type: south Indian
+21.booking date: 18-9-2022
+22.guest name: uday
+23.total booking amount: 800
+24.cuisine name: south Indian
+25.best selling item: dal fry
+26.feature name: take-away
+
+
+
+
+1.customer first name: vikram
+2.customer last name: joshi
+3.customer mobile no: 84462411222
+4.customer password: vikram@123
+5.restaurant name: Thikana
+6.restaurant addr: White Square, Hinjawadi Rd, Hinjawadi.
+7.city: Pune
+8.contact person name: Ram
+9.phone no: 0202553111032
+10.email: thikana@gmail.com
+11.opening time: 10
+12.closing time: 12
+13.restaurant contact no: 020255312123
+14.time slot: 9.30
+15.meal: dinner
+16.weekday: thursday
+17.date: 19-9-2022
+18.food name: chicken triple rice
+19.foood category: 
+20.cuisine type: chinese
+21.booking date: 19-9-2022
+22.guest name: abhay
+23.total booking amount: 1000
+24.cuisine name: chinese
+25.best selling item: veg munchurian
+26.feature name: smoking zone
+
+
+
+1.customer first name: sandip
+2.customer last name: patil
+3.customer mobile no: 84462411013
+4.customer password: sandip@123
+5.restaurant name: Peshwa Pavilion
+6.restaurant addr: Itc Maratha, Sahar Airport Rd, Andheri East.
+7.city: Mumbai
+8.contact person name: Ram
+9.phone no: 02228303030
+10.email: peshwa@gmail.com
+11.opening time: 10
+12.closing time: 12
+13.restaurant contact no: 022255312123
+14.time slot: 8.30
+15.meal: dinner
+16.weekday: friday
+17.date: 20-9-2022
+18.food name: veg thali 
+19.foood category: 
+20.cuisine type: Mahrashtrian
+21.booking date: 20-9-2022
+22.guest name: kiran
+23.total booking amount: 900
+24.cuisine name: Mahrashtrian
+25.best selling item: puran-poli
+26.feature name: take-away
+
+
+
+
+
+
+1.customer first name: sahil
+2.customer last name: jadhav
+3.customer mobile no: 84462410813
+4.customer password: sahil@123
+5.restaurant name: Nawab Saheb
+6.restaurant addr: The Westin Mumbai Powai Lake, Powai.
+7.city: Mumbai
+8.contact person name: arnav
+9.phone no: 02228302030
+10.email: nawab@gmail.com
+11.opening time: 11
+12.closing time: 12
+13.restaurant contact no: 022255312023
+14.time slot: 9.30
+15.meal: dinner
+16.weekday: sunday
+17.date: 21-9-2022
+18.food name: chicken korma 
+19.foood category: 
+20.cuisine type: mughlai 
+21.booking date: 21-9-2022
+22.guest name: azhar
+23.total booking amount: 1000
+24.cuisine name: Mughlai
+25.best selling item: Mughlai
+26.feature name: valet parking
+
+
+
+
+1.customer first name: pravin
+2.customer last name: jadhav
+3.customer mobile no: 84462410712
+4.customer password: pravin@123
+5.restaurant name: Masala Library
+6.restaurant addr: Bandra Kurla Complex (BKC), Western Suburbs.
+7.city: Mumbai
+8.contact person name: arbaj
+9.phone no: 02228302230
+10.email: masala@gmail.com
+11.opening time: 11
+12.closing time: 12
+13.restaurant contact no: 022255312223
+14.time slot: 12.30
+15.meal: lunch
+16.weekday: saturday
+17.date: 22-9-2022
+18.food name: punjabi thali 
+19.foood category: 
+20.cuisine type: north indian 
+21.booking date: 22-9-2022
+22.guest name: ravi
+23.total booking amount: 1000
+24.cuisine name: north indian
+25.best selling item: paneer patiala 
+26.feature name: smoking zone
+
+
+
+1.customer first name: kishor
+2.customer last name: pandit
+3.customer mobile no: 84462410924
+4.customer password: kishor@123
+5.restaurant name: China Bistro
+6.restaurant addr: Worli BMC Colony, Narayan Pujari Nagar,Mumbai
+7.city: Mumbai
+8.contact person name: soham
+9.phone no: 02228302335
+10.email: bistro@gmail.com
+11.opening time: 11
+12.closing time: 12
+13.restaurant contact no: 022255312226
+14.time slot: 12.30
+15.meal: lunch
+16.weekday: sunday
+17.date: 23-9-2022
+18.food name: veg fried rice 
+19.foood category: 
+20.cuisine type: chinese 
+21.booking date: 23-9-2022
+22.guest name: ramakant
+23.total booking amount: 900
+24.cuisine name: chinese
+25.best selling item: manchurian noodles 
+26.feature name: Outdoor Seating
+
+
+
+1.customer first name: rishab 
+2.customer last name: yadav
+3.customer mobile no: 84462410721
+4.customer password: rishab@123
+5.restaurant name: Lake View Cafe
+6.restaurant addr: The Westin Mumbai,near Chinmayand Ashram, Powai
+7.city: Mumbai
+8.contact person name: ameya
+9.phone no: 02228302370
+10.email: lakeview@gmail.com
+11.opening time: 10
+12.closing time: 12
+13.restaurant contact no: 022255312236
+14.time slot: 1.30
+15.meal: lunch
+16.weekday: friday
+17.date: 24-9-2022
+18.food name: bhindi fry 
+19.foood category: 
+20.cuisine type: indian 
+21.booking date: 24-9-2022
+22.guest name: ramakant
+23.total booking amount: 900
+24.cuisine name: indian
+25.best selling item: panner masala 
+26.feature name: Outdoor Seating
+
+
+
+
+1.customer first name: karan
+2.customer last name: sharma
+3.customer mobile no: 84462410923
+4.customer password: karan@123
+5.restaurant name: Vega
+6.restaurant addr: IGI International Airport,Mahipalpur.
+7.city: New Delhi
+8.contact person name: karan
+9.phone no: 02228302367
+10.email: vega@gmail.com
+11.opening time: 10
+12.closing time: 12
+13.restaurant contact no: 022255312216
+14.time slot: 12
+15.meal: lunch
+16.weekday: saturday
+17.date: 25-9-2022
+18.food name: sushi roll 
+19.foood category: 
+20.cuisine type: Japanese  
+21.booking date: 25-9-2022
+22.guest name: ram
+23.total booking amount: 1000
+24.cuisine name: Japanese 
+25.best selling item: sushi 
+26.feature name: Outdoor Seating
+
+
+
+
+1.customer first name: omkar
+2.customer last name: patil
+3.customer mobile no: 84462410711
+4.customer password: omkar@123
+5.restaurant name: The Bikers Cafe 
+6.restaurant addr: Palm Spring Plaza, Golf Course Rd, Sector 54, Gurugram.
+7.city: Haryana
+8.contact person name: prasad
+9.phone no: 022283021165
+10.email: bikerscafe@gmail.com
+11.opening time: 11
+12.closing time: 12
+13.restaurant contact no: 022255312216
+14.time slot: 10
+15.meal: breakfast
+16.weekday: saturday
+17.date: 26-9-2022
+18.food name: veg grill sandwich 
+19.foood category: 
+20.cuisine type: indian  
+21.booking date: 26-9-2022
+22.guest name: arjun
+23.total booking amount: 300
+24.cuisine name: Indian 
+25.best selling item: sandwich 
+26.feature name: smoking area
+
+
+
+
+
+
+1.customer first name: pavan
+2.customer last name: kadam
+3.customer mobile no: 84462410610
+4.customer password: pavan@123
+5.restaurant name: The Qube 
+6.restaurant addr: Diplomatic Enclave, Chanakyapuri, New Delhi.
+7.city: New Delhi
+8.contact person name: pramod
+9.phone no: 022283021077
+10.email: theqube@gmail.com
+11.opening time: 10
+12.closing time: 11
+13.restaurant contact no: 022255312118
+14.time slot: 9.30
+15.meal: dinner
+16.weekday: friday
+17.date: 27-9-2022
+18.food name: baigan masala 
+19.foood category: 
+20.cuisine type: indian  
+21.booking date: 27-9-2022
+22.guest name: rajpal
+23.total booking amount: 800
+24.cuisine name: Indian 
+25.best selling item:palak paneer 
+26.feature name: valet parking
+
+
+
+1.customer first name: abhi
+2.customer last name: patil
+3.customer mobile no: 84462410610
+4.customer password: abhi@123
+5.restaurant name: The Dineroom
+6.restaurant addr: NWA, Club Rd, Punjabi Bagh, Delhi.
+7.city: Delhi
+8.contact person name: prashant
+9.phone no: 022283021966
+10.email: dineroom@gmail.com
+11.opening time: 9
+12.closing time: 10
+13.restaurant contact no: 022255312016
+14.time slot: 9.30
+15.meal: breakfast
+16.weekday: thursday
+17.date: 28-9-2022
+18.food name: onion uthappa 
+19.foood category: 
+20.cuisine type: south indian  
+21.booking date: 28-9-2022
+22.guest name: raj
+23.total booking amount: 400
+24.cuisine name: south Indian 
+25.best selling item:veg kofta 
+26.feature name: valet parking
+
+
+
+
+1.customer first name: abhilash
+2.customer last name: kate
+3.customer mobile no: 84462410922
+4.customer password: abhilash@123
+5.restaurant name: My Secret Place
+6.restaurant addr: Palam Vihar, Sector 23A, Gurugram, Haryana.
+7.city: Haryana
+8.contact person name: pritam
+9.phone no: 022283021744
+10.email: secretplace@gmail.com
+11.opening time: 10
+12.closing time: 12
+13.restaurant contact no: 022255311816
+14.time slot: 9.30
+15.meal: dineer
+16.weekday: monday
+17.date: 29-9-2022
+18.food name: paneer patiala 
+19.foood category: 
+20.cuisine type: north indian  
+21.booking date: 29-9-2022
+22.guest name: rajat
+23.total booking amount: 800
+24.cuisine name: north Indian 
+25.best selling item:paneer patiala 
+26.feature name: smoking area
 
 
 
