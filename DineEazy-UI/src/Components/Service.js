@@ -10,7 +10,7 @@ function Service(){
                             <div className="p-4">
                                 <i className="fa fa-3x fa-user-tie text-primary mb-4"></i>
                                 <h5>Master Chefs</h5>
-                                <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                                <p>We have Top Chefs from famous Restaurants to keep food quality top notch.</p>
                             </div>
                         </div>
                     </div>
@@ -19,7 +19,7 @@ function Service(){
                             <div className="p-4">
                                 <i className="fa fa-3x fa-utensils text-primary mb-4"></i>
                                 <h5>Quality Food</h5>
-                                <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                                <p>We Serve Qaulity Food that has Wide Varity and Original Taste</p>
                             </div>
                         </div>
                     </div>
@@ -27,8 +27,8 @@ function Service(){
                         <div className="service-item rounded pt-3">
                             <div className="p-4">
                                 <i className="fa fa-3x fa-star text-primary mb-4"></i>
-                                <h5>Online Order</h5>
-                                <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                                <h5>5 Star Hotels</h5>
+                                <p>We Partner only 5 Starred Hotels to give the Best Service to our Usrs</p>
                             </div>
                         </div>
                     </div>
@@ -36,8 +36,8 @@ function Service(){
                         <div className="service-item rounded pt-3">
                             <div className="p-4">
                                 <i className="fa fa-3x fa-headset text-primary mb-4"></i>
-                                <h5>24/7 Service</h5>
-                                <p>Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam</p>
+                                <h5>Instant Help</h5>
+                                <p>We try to Keep our HekpDesk on 24/7 to Listen to our Customer's Querries and Help Imidiately</p>
                             </div>
                         </div>
                     </div>
