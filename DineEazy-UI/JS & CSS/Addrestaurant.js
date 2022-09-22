@@ -99,83 +99,187 @@ const Addrestaurant = props =>{
     
                                         <div className="col-md-2"></div>
                                         <div className="col-md-2"></div>
-                                        <div className="col-md-10">
-                                        <pre>
-                                            <div className="htmlForm-floating"><input type="file" id="photo" name="photo" accept="image/*" /></div>
-                                        </pre>
-                                        </div>
+                                              {/********************************************************************************************************/}
+                    
+                       <div className="col-md-4" >    
+                       <div class="dropdown">
+                       
+                         <button  class="btn btn-secondary dropdown-toggle w-100 py-3"  type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false" >&ensp;&ensp;Select the cuisines &ensp;&ensp;</button>
+                         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input" name="1" type="radio"  value="Maharashtrian" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Maharashtrian &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="2" type="radio" value="South Indian" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; South Indian &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="3" type="radio" value="North Indian	" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; North Indian &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="4" type="radio" value="Chinese" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Chinese &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="5" type="radio" value="Fast Food" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Fast Food &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="6" type="radio" value="Thai Food" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Thai Food &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="7" type="radio" value=" Italian" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp;  Italian &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="8" type="radio" value="Bengali" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Bengali &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="9" type="radio" value="Rajastani" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Rajastani &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="10" type="radio" value="Hyderabadi" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Hyderabadi &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="11" type="radio" value="Mexican" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Mexican &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input"  name="12" type="radio" value="Japanese" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Japanese &ensp;</label>
+                             </a>
+                           </li>
+                         </ul>
+                       </div>
+                       </div>
 
-                                        <div className="col-md-2"></div>
-                                        <div className="col-md-2">
-                                        <input type="text" className="htmlForm-control" id="text" placeholder="Select Cuisines" disabled/>
-                                        </div>
-                                        <div className="col-md-6">
-                                        <div className="htmlForm-floating">
-                                        <div class="checkbox">
-                                        <table>
-                                            <tr>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Maharashtrian</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; South Indian</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; North Indian</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Chinese</label></td>
-                                            </tr>
-                                            <tr>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Fast Food</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Thai Food</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Italian</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Bengali</label></td>
-                                            </tr>
-                                            <tr>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Hyderabadi</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Mexican</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Rajastani</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Japanese</label></td>
-                                            </tr>
-                                        </table>
-                                      </div>
-                                    </div>
-                                    </div>
+                        {/******************************************************************************************************/}
 
-                                    <div className="col-md-2"></div>
-                                    <div className="col-md-2"></div>
-                                        <div className="col-md-2">
-                                        <input type="text" className="htmlForm-control" id="text" placeholder="Select Features" disabled/>
-                                        </div>
-                                        <div className="col-md-6">
-                                        <div className="htmlForm-floating">
-                                        <div class="checkbox">
-                                            <table>
-                                            <tr>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Air Condition</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Live Music</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Outdoor Seating</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; </label>Lift</td>
-                                            </tr>
-                                            <tr>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Smoking Area</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Alcohol Served</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Child Allowed</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Parking</label></td>
-                                            </tr>
-                                            <tr>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Card Accepted</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Bar & Pubs</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; Live Performance</label></td>
-                                                <td><label><input type="checkbox" value=""/>&ensp; </label>DJ</td>
-                                            </tr>
-                                        </table> 
-                                      </div>
-                                    </div>
-                                    </div>
-                                    <div className="col-md-2"></div>
-                                    <div className="col-md-2"></div>
-                                    <div className="col-md-12"></div>
+                  
+                     
+                     <div className="col-md-4" >    
+                        <div class="dropdown">
+                         <button class="btn btn-secondary dropdown-toggle w-100 py-3"  type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false" >&ensp;&ensp;&ensp;Select Features&ensp;&ensp;&ensp;&ensp;</button>
+                         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input" type="radio" name="13" value="Air Condition" onClick={(e)=>{cuisinesList.push(e.target.value)}}/>
+                                 <label class="form-check-label">&ensp; Air Condition &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input" type="radio" name="14" value="Live Music" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Live Music &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input" type="radio" name="15" value="Outdoor Seating" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Outdoor Seating &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input" type="radio" name="16" value=" Lift" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp;  Lift &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input" type="radio" name="17" value="Card Accepted" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Card Accepted &ensp;</label>
+                             </a>
+                           </li>
+                           <li>
+                              <a class="dropdown-item">
+                                 <input class="form-check-input" type="radio" name="18" value="Bar & Pubs" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                 <label class="form-check-label">&ensp; Bar & Pubs &ensp;</label>
+                             </a>
+                           </li>
+                            <li>
+                            <a class="dropdown-item">
+                                <input class="form-check-input" type="radio" name="19" value="Child Allowed" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                <label class="form-check-label">&ensp; Child Allowed &ensp;</label>
+                            </a>
+                            </li>
+                             <li>
+                                <a class="dropdown-item">
+                                <input class="form-check-input" type="radio" name="20" value="Live Music" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                <label class="form-check-label">&ensp; Live Music &ensp;</label>
+                            </a>
+                            </li>
+                            <li>
+                            <a class="dropdown-item">
+                                <input class="form-check-input" type="radio" name="21" value="Live Performance" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                <label class="form-check-label">&ensp; Live Performance &ensp;</label>
+                            </a>
+                            </li>
+                            <li>
+                            <a class="dropdown-item">
+                                <input class="form-check-input" type="radio" name="22" value="Alcohol Served" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                <label class="form-check-label">&ensp; Alcohol Served &ensp;</label>
+                            </a>
+                        </li>
+                        <li>
+                        <a class="dropdown-item">
+                            <input class="form-check-input" type="radio" name="23" value="Smoking Area" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                            <label class="form-check-label">&ensp; Smoking Area &ensp;</label>
+                        </a>
+                        </li>
+                            <li>
+                                <a class="dropdown-item">
+                                <input class="form-check-input" type="radio" name="24" value="DJ" onClick={(e)=>{cuisinesList.push(e.target.value)}} />
+                                <label class="form-check-label">&ensp; DJ &ensp;</label>
+                            </a>
+                            </li>
+                         </ul>
+                       </div>
+                       </div>
+                        
+                       <div className="col-md-2"></div>
+                       <div className="col-md-2"></div>
+                       <div className="col-md-8">
+                       <div className="form-floating">
+                       <div className=" w-100 py-3" style={{backgroundColor:"darkgrey"}}>
+                       <input type="file" style={{paddingInline:10}} id="photo" name="photo" accept="image/*" onChange={(e) => {
+                                       setImage(e.target.files[0])}}/>
+                       </div>
+                       </div>
+                       </div>
+                       <div className="col-md-2"></div>
+                       <div className="col-md-2"></div>
 
-                                    
-    
-    
-    
-                                
+                                   
                                     <div className="col-md-2"></div>
                                    <div className="col-8">
                                         <button className="btn btn-primary w-100 py-3" type="submit">Submit</button>
