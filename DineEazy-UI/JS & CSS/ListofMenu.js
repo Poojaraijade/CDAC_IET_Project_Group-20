@@ -25,7 +25,7 @@ const ListofMenu = props =>{
                                 <div class="tab-content">
                                     <div id="tab-1" class="tab-pane fade show p-0 active">
                                         <div className="row g-4">
-                                        {/*************************************************************************************/}
+                                       {/*************************************************************************************/}
                                             <div className="col-lg-2"></div>
                                                 <div className="col-lg-8">
                                                     <div className="d-flex align-items-center">
@@ -37,9 +37,12 @@ const ListofMenu = props =>{
                                                                 </h5>
                                                                 <small class="fst-italic">Cuisine : From database</small>
                                                             </div>
-                                                            <div className="col-lg-2">
-                                                                <button className="btn btn-primary w-50 py-3" type="button">&#43;</button>
-                                                            </div>
+                                                            <div className="col-lg-1">
+                                                            <input type="number" className="form-control" value="" id="number" placeholder="" />
+                                                          </div>
+                                                         <div className="col-lg-2">
+                                                            <button className="btn btn-primary w-50 py-2" type="button">&#43;</button>
+                                                         </div>
                                                         </div>
                                                     </div>   
                                                     <div class="col-lg-1"></div>
@@ -55,8 +58,11 @@ const ListofMenu = props =>{
                                                              </h5>
                                                              <small class="fst-italic">Cuisine : From database</small>
                                                          </div>
+                                                         <div className="col-lg-1">
+                                                            <input type="number" className="form-control" value="" id="number" placeholder="" />
+                                                          </div>
                                                          <div className="col-lg-2">
-                                                             <button className="btn btn-primary w-50 py-3" type="button">&#43;</button>
+                                                            <button className="btn btn-primary w-50 py-2" type="button">&#43;</button>
                                                          </div>
                                                      </div>
                                                  </div>   
