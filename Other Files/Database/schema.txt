@@ -1,0 +1,104 @@
+Schema ==>
+
+1.Restaurant Details: (Resto. Registration)     
+	a.Resto Name
+	b.Address
+	c.City
+	d.Contact Person Deatils:  a.Name
+                          	    b.Phone
+                          	    c.Email
+--------------------------------------------------
+  Resto. ID
+a.Resto. Image
+b.Cuisine(food)
+c.Average Cost For 2 Person
+d.Best Selling Item  
+e.Facility and features
+f.menu(table)
+g.menu(images)
+h.Timing(Open/Close)
+i.Resto. Contact No.(help)
+
+****************************************************
+
+2.Customer:
+	a.Customer Id
+	b.Full Name
+	c.Email ID/Phone(UserName)
+	d.Password
+
+****************************************************
+
+3.Booking Resto.Table:
+	a.Date
+	b.Time(slot)
+	c.Guest Name
+	d.Pre-Menu Order(table)
+	e.Mobile No./Email ID
+	f.Special Request(optional)
+	g.Resto. ID
+    h.Guest Number
+	i.Customer ID
+
+****************************************************
+
+4.Food Menu:
+	a.Food Id
+	b.Price
+	c.Food Name
+	d.Food Type
+	e.Cuisine
+
+****************************************************
+
+5.Review/FeedBack:
+	a.Resto. ID
+	b.rating
+	c.Review ID
+
+****************************************************
+
+6.Admin:
+a.UserName(Mobile/Email)
+b.PassWord
+
+****************************************************
+
+7.User:
+	a.Mobile No./Email
+	b.Password
+
+****************************************************
+Person
+ |
+ |
+User  
+ |             |             |
+ |             |             |
+Cutosmer     Admin         Resto. 
+ |             |
+ |             |
+Booking      Add/Remove
+Table        Update
+
+                |
+                |
+              Resto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
