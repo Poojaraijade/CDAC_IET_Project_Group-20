@@ -1,5 +1,4 @@
-
-                                                  DineEazy
+<h1 align="center"> DineEazy </h1>
 
 
 
@@ -33,14 +32,12 @@ https://github.com/Poojaraijade/DineEazy_Grp20.git
 
 
 
-
 ## For importing data to database
 
 1. In mysql command prompt run the below command
 2. Enter the path of myproject.sql file 
 
 ### `source path`
-
 
 
 
@@ -55,3 +52,36 @@ https://github.com/Poojaraijade/DineEazy_Grp20.git
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+
+
+
+<h2 align="center"> Technology Used </h2>
+<p align="center">
+ 
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+</p>
+ <hr>
+
+<hr>
+
+ 
+<h2 align="center"> Project Contributors </h2>
+<div align="center">
+	<img src="https://contributors-img.web.app/image?repo=prabandhshinde/OnlineDoctorAppointmentSystem" />
+<div>
+<div align="center">
+	<i class="bx bx-chevron-right"></i> <a href="https://github.com/Iam-AnkitRaut">| Ankit |</a>
+	<i class="bx bx-chevron-right"></i> <a href="https://github.com/amoldeore123">| Amol |</a>
+	<i class="bx bx-chevron-right"></i> <a href="https://github.com/Poojaraijade">| Pooja |</a>
+	<i class="bx bx-chevron-right"></i> <a href="https://github.com/PARESHLONDHE">| Paresh |</a>
+	<i class="bx bx-chevron-right"></i> <a href="https://github.com/Ranjeetkumkar">| Ranjeet |</a>
+	<i class="bx bx-chevron-right"></i> <a href="https://github.com/RajatSab">| Rajat |</a>
+</div>
