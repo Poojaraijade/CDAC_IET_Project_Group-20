@@ -1,3 +1,8 @@
+
+                                            DineEazy
+
+
+
 Project Description :
 
 DineEazy provides diner a platform that allows to make online table reservations at restaurants. Diner can check out
